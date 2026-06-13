@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Card Designer",
+  "description": "An interactive web-based editor to design custom high-quality birthday template graphics, featuring photo uploads, layout customization, and easy downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
